@@ -11,4 +11,11 @@ cat my_file.txt | grep "shells"
 <!-- The cat command is often used with piping to send the content of files to other commands.This is useful for processing text data. -->
 cp my_file.txt copy_of_my_file.txt
 <!-- The cp command is used to copy files and directories from one location to anotherIt's like making a duplicate of your file or folder. -->
+cp images/my_file.jfif my_directory/
+<!-- copies my_file.jfif from images to my_directory -->
+mv images/55.jfif my_directory/
+<!-- used to move 55.jfif to my_directory -->
+mv -i my_directory/555.jfif 552.jfif
+<!-- used to rename 55.jfif to 555.jfif -->
+
 
