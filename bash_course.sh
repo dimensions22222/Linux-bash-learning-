@@ -439,7 +439,7 @@ echo "=========================================="
 echo "LESSON 13 — PERMISSIONS"
 echo "=========================================="
 echo
-g echo "Linux files have permissions."
+echo "Linux files have permissions."
 echo
 echo "View permissions:"
 echo
