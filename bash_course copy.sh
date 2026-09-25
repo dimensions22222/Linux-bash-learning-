@@ -2,24 +2,7 @@
 clear
 
 echo "=========================================="
-echo "        🐧 BASH FROM ZERO COURSE"
-echo "=========================================="
-echo
-echo "Welcome!"
-echo "This script will teach you Bash step by step."
-echo
-read -p "Press ENTER to begin..."
 
-# ==========================================================
-# LESSON 1
-# ==========================================================
-
-clear
-echo "=========================================="
-echo "LESSON 1 — YOUR FIRST BASH COMMANDS"
-echo "=========================================="
-echo
-echo "Bash is a command-line shell."
 echo "You type commands and Bash executes them."
 echo
 echo "Try these:"
