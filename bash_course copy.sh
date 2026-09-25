@@ -38,10 +38,7 @@ echo
 echo "Important commands:"
 echo
 echo
-echo "    mkdir practice"
-echo "    cd practice"
-echo "    pwd"
-echo
+
 read -p "Press ENTER to continue..."
 
 clear
