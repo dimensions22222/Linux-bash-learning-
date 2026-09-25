@@ -37,12 +37,6 @@ echo "=========================================="
 echo
 echo "Important commands:"
 echo
-echo "pwd     = Where am I?"
-echo "ls      = What is here?"
-echo "cd      = Change directory"
-echo "mkdir   = Create directory"
-echo
-echo "Examples:"
 echo
 echo "    mkdir practice"
 echo "    cd practice"
